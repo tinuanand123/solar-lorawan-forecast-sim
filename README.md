@@ -24,4 +24,4 @@ python3 run1.py && python3 run2.py && python3 run3.py && python3 figs2.py
 Gradient-boosting training is not bit-exact between machines, so small numerical differences (last digit) are expected.
 
 ## Licence and citation
-MIT licence (see `LICENSE`). Please cite the paper when using the code. [Add DOI when available.]
+MIT licence (see `LICENSE`). Please cite the paper when using the code.
